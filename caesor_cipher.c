@@ -9,7 +9,7 @@ int main() {
 
     printf("Enter key (number of shifts): ");
     scanf("%d", &key);
-
+  
     printf("\nWhat do you want to do?\n");
     printf("1. Encrypt\n");
     printf("2. Decrypt\n");
